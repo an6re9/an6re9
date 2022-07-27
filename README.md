@@ -18,6 +18,7 @@
 - Bootstrap
 - Figma/Photoshop/Illustrator
 - SQL
+- CMS OpenCart
 
 ## Контакты ##
 - [Telegram](https://t.me/an6re9)
