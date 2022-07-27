@@ -16,7 +16,7 @@
 - Gulp
 - БЭМ
 - Bootstrap
-- Figma/Photoshop
+- Figma/Photoshop/Illustrator
 - SQL
 
 ## Контакты ##
