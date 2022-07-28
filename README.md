@@ -14,6 +14,7 @@
 
 ## Дополнительно: ##
 - Gulp
+- JQuery
 - БЭМ
 - Bootstrap
 - Figma/Photoshop/Illustrator
