@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/static/v1?label=&message=React&color=d74242)
 
 ## Дополнительно: ##
-- Gulp
+- Gulp/Webpack
 - JQuery
 - БЭМ
 - Bootstrap
