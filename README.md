@@ -13,11 +13,11 @@
 ![React](https://img.shields.io/static/v1?label=&message=React&color=d74242)
 
 ## Дополнительно: ##
-- Gulp/Webpack
+- Gulp, Webpack
 - JQuery
 - БЭМ
 - Bootstrap
-- Figma/Photoshop/Illustrator
+- Figma, Photoshop, Illustrator
 - SQL
 - CMS: OpenCart, Wordpress
 
