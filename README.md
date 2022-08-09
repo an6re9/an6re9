@@ -19,7 +19,7 @@
 - Bootstrap
 - Figma/Photoshop/Illustrator
 - SQL
-- CMS OpenCart
+- CMS: OpenCart, Wordpress
 
 ## Контакты ##
 - [Telegram](https://t.me/an6re9)
