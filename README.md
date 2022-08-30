@@ -10,6 +10,7 @@
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color="#4591d1")
 ![CSS/SASS](https://img.shields.io/static/v1?label=&message=CSS/SASS&color=4591d1)
 ![JS](https://img.shields.io/static/v1?label=&message=JS&color=f17532)
+![TS](https://img.shields.io/static/v1?label=&message=TS&color=8435ce)
 ![React](https://img.shields.io/static/v1?label=&message=React&color=d74242)
 
 ## Дополнительно: ##
