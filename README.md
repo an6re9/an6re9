@@ -24,7 +24,5 @@
 
 ## Контакты ##
 - [Telegram](https://t.me/an6re9)
-- an6re9@yandex.ru
 
-- [codepen](https://codepen.io/an6re9)
 
